@@ -1,0 +1,42 @@
+@media only screen and (max-width: 765px) {
+    .navlogo img {
+        width: 90vw;
+        padding: none;
+        margin: auto;
+    }
+}
+.navbar-prawer {
+    background-color: #dfdfdf;
+}
+
+.bannervideo {
+    width: 100%;
+    margin: none;
+    padding: none;
+    box-sizing: border-box;
+}
+
+.banner-row {
+    width: 100vw;
+    max-height: 600px;
+    padding: none;
+    box-sizing: border-box;
+    overflow: hidden;
+    z-index: 1;
+    position: relative;
+    margin: none;
+}
+
+.banner-title {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 20px;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    text-align: left;
+    font-size: 24px;
+    font-weight: bold;
+}
